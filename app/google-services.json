@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1065125215774",
+    "firebase_url": "https://takimyildizi-652f0.firebaseio.com",
+    "project_id": "takimyildizi-652f0",
+    "storage_bucket": "takimyildizi-652f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065125215774:android:d8cb49ec65761fe7",
+        "android_client_info": {
+          "package_name": "firebase.berkcekisbas.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065125215774-akbcj0n4ahvehalmbm9jb81ftclv0lot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJDV3Zuq92CPEMcnI9CEVSEZ2Br9g0qeE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
